@@ -1,6 +1,6 @@
 # flood-data
 
-Merged Dartmouth Flood Observatory (DFO) + EM-DAT global flood archive, 1900–present, with a trend-analysis plot suite. Parallel in spirit to `earthquakes`, `spaceweather`, `famines-tracking`, and `pandemics-tracking`.
+Merged Dartmouth Flood Observatory (DFO) + EM-DAT global flood archive, 1900–present, with a trend-analysis plot suite. One of 10 sibling repos analyzed together — see the [`correlations`](https://github.com/Biblejustin/correlations) hub for the cross-repo analysis.
 
 ## Quick findings
 
